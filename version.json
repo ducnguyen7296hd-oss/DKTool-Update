@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0.361",
+  "title": "Bản cập nhật DKTool v1.0.0.361",
+  "release_notes": "1. Hợp nhất cơ chế chuyển đổi LaTeX sang MathType chuẩn xác 100% không sót công thức.\n2. Tự động sửa lỗi đơn vị diện tích (cm^2, m^3) tránh lỗi khung đỏ MathType.\n3. Đồng bộ chuyển đổi khi quét PDF/ảnh sang Word.\n4. Bổ sung tính năng tự động cập nhật Online 1-Click.",
+  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/latest/download/DKToolUpdate.zip"
+}
