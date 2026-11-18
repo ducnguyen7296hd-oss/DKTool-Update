@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.369",
-  "title": "Bản cập nhật DKTool v1.0.0.369",
-  "release_notes": "1. Nâng cấp Giao diện Tiến trình Chuyển đổi sang MathType: Bảng đếm tiến độ chuyển xuống góc dưới cùng bên phải màn hình (Toast Card hiện đại), chỉ xuất hiện sau khi bảng Convert xác nhận, không che tài liệu và không xung đột tiêu điểm.\n2. Giữ nguyên Print Layout (A4 ở giữa), khắc phục hoàn toàn hiện tượng lệch lề trái.\n3. Cố định tiêu điểm và khóa chặt màn hình Word sau khi hoàn tất.",
-  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.369/DKToolUpdate_v1.0.0.369.zip"
+  "version": "1.0.0.370",
+  "title": "Bản cập nhật DKTool v1.0.0.370",
+  "release_notes": "1. Sửa triệt để cơ chế Cập Nhật Online: Tự động đồng bộ vào Documents\\DKTOOLV7 và làm mới Registry, loại bỏ hoàn toàn lỗi kẹt lại bản cũ sau khi cập nhật.\n2. Nâng cấp Giao diện Tiến trình Chuyển đổi sang MathType: Toast Card hiện đại ở góc dưới bên phải màn hình.\n3. Khắc phục triệt để hiện tượng lệch lề trái và cố định tiêu điểm Word sau khi xong.",
+  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.370/DKToolUpdate_v1.0.0.370.zip"
 }
