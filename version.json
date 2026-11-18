@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.365",
-  "title": "Bản cập nhật DKTool v1.0.0.365",
-  "release_notes": "1. Chuẩn hóa ChatGPT/Gemini tích hợp chuyển đổi sang MathType Siêu Tốc (Fast Mode).\n2. Tốc độ chuyển đổi công thức siêu tốc chỉ 1-2 giây cho toàn bộ đề thi.\n3. Tự động chống lan in đậm (Anti-Bold Bleeding) và khử vệt bôi đen màn hình.",
-  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.365/DKToolUpdate_v1.0.0.365.zip"
+  "version": "1.0.0.369",
+  "title": "Bản cập nhật DKTool v1.0.0.369",
+  "release_notes": "1. Nâng cấp Giao diện Tiến trình Chuyển đổi sang MathType: Bảng đếm tiến độ chuyển xuống góc dưới cùng bên phải màn hình (Toast Card hiện đại), chỉ xuất hiện sau khi bảng Convert xác nhận, không che tài liệu và không xung đột tiêu điểm.\n2. Giữ nguyên Print Layout (A4 ở giữa), khắc phục hoàn toàn hiện tượng lệch lề trái.\n3. Cố định tiêu điểm và khóa chặt màn hình Word sau khi hoàn tất.",
+  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.369/DKToolUpdate_v1.0.0.369.zip"
 }
