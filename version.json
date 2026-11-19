@@ -2,5 +2,5 @@
   "version": "1.0.0.371",
   "title": "Bản cập nhật DKTool v1.0.0.371",
   "release_notes": "1. Tối ưu hóa tính năng chuyển Equation sang MathType: hiển thị trang Word sáng rõ, không bị trắng màn hình.\n2. Thiết kế lại bảng tiến trình Toast Card rộng rãi, cố định luôn nổi trên cùng (TopMost) và có thể kéo di chuyển tự do.\n3. Bổ sung nút [ ✕ Dừng lại ] màu đỏ to rõ: ấn dừng là ngắt ngay lập tức, chuyển đến đâu lưu giữ nguyên đến đó.",
-  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v.1.0.0.371/DKToolUpdate_v1.0.0.371.zip"
+  "download_url": "https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.371/DKToolUpdate_v1.0.0.371.zip"
 }
