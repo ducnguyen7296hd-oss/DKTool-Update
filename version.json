@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.394",
-  "title": "Bản cập nhật DKTool v1.0.0.394",
-  "release_notes": "1. Tự động nhận dạng và vá công thức LaTeX bị thiếu dấu $ ở cuối trước chữ tiếng Việt hoặc dấu câu, bảo vệ ký hiệu tiền tệ ($500) và lệnh \\text{...}.\n2. Triệt tiêu hoàn toàn lỗi 'Error 5904 occurred, Cannot edit Range.' khi gặp dấu $ lẻ hoặc hình vẽ nằm trong bảng.\n3. Khóa cứng ScreenUpdating = false ở cả luồng chính và dự phòng, sửa lỗi cắt nhầm cuối ô bảng cho đơn vị đo lường (cm^2, dm^3), đảm bảo tốc độ chuyển đổi mượt mà ổn định.",
-  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.394/DKToolUpdate_v1.0.0.394.zip"
+  "version": "1.0.0.395",
+  "title": "Bản cập nhật DKTool v1.0.0.395",
+  "release_notes": "1. Nâng cấp toàn diện cơ chế quản lý API Key & Gemini AI (chống lỗi hạn mức 429): đồng bộ Google Apps Script mới và 4 model ưu tiên (gemini-3-flash-preview, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite).\n2. Tự động lấy lô Key dùng chung xoay vòng cục bộ, Pacing 5s theo cặp (Key + Model) và dùng chung HttpClient ổn định.\n3. Phân loại chuẩn xác lỗi API: tách biệt lỗi 404 Model (không khóa oan Key), lỗi 429 RPM/TPM (nghỉ tạm cooldown 60-90s thay vì khóa 24h) và nâng cấp kiểm tra Key cá nhân qua cả 4 model.",
+  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.395/DKToolUpdate_v1.0.0.395.zip"
 }
