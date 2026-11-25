@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.373",
-  "title": "Bản cập nhật DKTool v1.0.0.373",
-  "release_notes": "1. Tối ưu hóa tính năng chuyển Equation sang MathType: hiển thị trang Word sáng rõ, không bị trắng màn hình.\n2. Thiết kế lại bảng tiến trình Toast Card rộng rãi, cố định luôn nổi trên cùng (TopMost) và có thể kéo di chuyển tự do.\n3. Bổ sung nút [ ✕ Dừng lại ] màu đỏ to rõ: ấn dừng là ngắt ngay lập tức, chuyển đến đâu lưu giữ nguyên đến đó.",
-  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.373/DKToolUpdate_v1.0.0.373.zip"
+  "version": "1.0.0.393",
+  "title": "Bản cập nhật DKTool v1.0.0.393",
+  "release_notes": "1. Sửa triệt để lỗi dính chữ / nuốt văn bản tiếng Việt khi chuyển LaTeX sang MathType (các công thức như $2,5$, $3.14$, $NP$, $MNP$,...): tự động bọc ${...}$ an toàn theo từng dòng/đoạn để MathType nhận diện chính xác 100%.\n2. Tối ưu hiệu năng chuyển đổi hàng loạt: quét RAM siêu tốc, không giật màn hình, giữ nguyên định dạng, bảng biểu và công thức có sẵn.\n3. Hỗ trợ đầy đủ các định dạng $...$, ${...}$, ${{...}}$, \\[...\\], \\(...\\) và tự động fallback sang Word OMML khi không có MathType.",
+  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.393/DKToolUpdate_v1.0.0.393.zip"
 }
