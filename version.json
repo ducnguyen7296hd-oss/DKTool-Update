@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.395",
-  "title": "Bản cập nhật DKTool v1.0.0.395",
-  "release_notes": "1. Nâng cấp toàn diện cơ chế quản lý API Key & Gemini AI (chống lỗi hạn mức 429): đồng bộ Google Apps Script mới và 4 model ưu tiên (gemini-3-flash-preview, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite).\n2. Tự động lấy lô Key dùng chung xoay vòng cục bộ, Pacing 5s theo cặp (Key + Model) và dùng chung HttpClient ổn định.\n3. Phân loại chuẩn xác lỗi API: tách biệt lỗi 404 Model (không khóa oan Key), lỗi 429 RPM/TPM (nghỉ tạm cooldown 60-90s thay vì khóa 24h) và nâng cấp kiểm tra Key cá nhân qua cả 4 model.",
-  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.395/DKToolUpdate_v1.0.0.395.zip"
+  "version": "1.0.0.400",
+  "title": "Bản cập nhật DKTool v1.0.0.400",
+  "release_notes": "1. Khắc phục triệt để lỗi loang in đậm (bôi đen nhầm văn bản) khi chuyển LaTeX sang MathType bằng cơ chế chụp XML trước-sau và thu gọn 2 đầu Batch, giữ nguyên 100% tốc độ xử lý.\n2. Tự động tách chữ tiếng Việt và đơn vị đo (\\text{...}, $7\\text{ m}$, $3\\text{ cm}$) ở tầng ngoài ra khỏi $...$ để giữ font Word sắc nét; các phân số/chỉ số chứa tiếng Việt có dấu được chuyển riêng sang Word Equation để không bị lỗi dấu '?'.\n3. Xử lý lỗi hộp thoại 'Only One MathType command can be executed at a time' (khóa chồng chéo, tự đóng hộp thoại treo/thử lại và dừng an toàn).\n4. Tối ưu tốc độ khâu chuẩn bị 0%: khóa ScreenUpdating, Pagination và kiểm tra chính tả/ngữ pháp ngay trước bước tiền xử lý LaTeX.",
+  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.400/DKToolUpdate_v1.0.0.400.zip"
 }
