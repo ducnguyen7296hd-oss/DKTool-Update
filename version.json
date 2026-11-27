@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.407",
-  "title": "Bản cập nhật DKTool v1.0.0.407",
+  "version": "1.0.0.408",
+  "title": "Bản cập nhật DKTool v1.0.0.408",
   "release_notes": "1. Nâng cấp Chuyển PDF/Ảnh sang Word: thêm cửa sổ cắt & chỉnh nhanh hình vẽ theo đúng thứ tự trang/câu, tự động tẩy nền trắng và làm nét ảnh khi cắt.\n2. Nâng cấp AI OCR: tự động phân loại Bảng biến thiên (cắt ảnh), Bảng số liệu (HTML + ảnh dự phòng), Bảng đáp án; lọc bỏ rác Header/Footer và chuẩn hóa LaTeX/bảng HTML trước khi chèn vào Word.\n3. Tối ưu cơ chế API Key: ưu tiên giữ Model tốt nhất khi xoay vòng qua Key cá nhân và Pool 10 Key chung (tự động cấp bù khi hết dung lượng), khắc phục mất trang khi quét nhiều trang.",
-  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.407/DKTool_Setup_v1.0.0.407.msi"
+  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.408/DKTool_Setup_v1.0.0.408.msi"
 }
