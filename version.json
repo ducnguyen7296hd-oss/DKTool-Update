@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0.401",
-  "title": "Bản cập nhật DKTool v1.0.0.401",
-  "release_notes": "1. Chuyển sang bộ cài đặt 1 file .msi gọn nhẹ (9,97 MB), tích hợp sẵn bảo vệ chống Word tự tắt Add-in (DoNotDisableAddinList) và tự dọn cache cũ.\n2. Hỗ trợ tự động tải và cập nhật trực tiếp từ file .msi trong các bản tiếp theo.\n3. Kế thừa đầy đủ các sửa lỗi từ v1.0.0.400 (chống loang in đậm giữ nguyên tốc độ, tách chữ Việt & đơn vị \\text{ m}/\\text{ cm}, xử lý kẹt lệnh MathType).",
-  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.401/DKTool_Setup_v1.0.0.401.msi"
+  "version": "1.0.0.407",
+  "title": "Bản cập nhật DKTool v1.0.0.407",
+  "release_notes": "1. Nâng cấp Chuyển PDF/Ảnh sang Word: thêm cửa sổ cắt & chỉnh nhanh hình vẽ theo đúng thứ tự trang/câu, tự động tẩy nền trắng và làm nét ảnh khi cắt.\n2. Nâng cấp AI OCR: tự động phân loại Bảng biến thiên (cắt ảnh), Bảng số liệu (HTML + ảnh dự phòng), Bảng đáp án; lọc bỏ rác Header/Footer và chuẩn hóa LaTeX/bảng HTML trước khi chèn vào Word.\n3. Tối ưu cơ chế API Key: ưu tiên giữ Model tốt nhất khi xoay vòng qua Key cá nhân và Pool 10 Key chung (tự động cấp bù khi hết dung lượng), khắc phục mất trang khi quét nhiều trang.",
+  "download_url": "https://gh-proxy.com/https://github.com/ducnguyen7296hd-oss/DKTool-Update/releases/download/v1.0.0.407/DKTool_Setup_v1.0.0.407.msi"
 }
